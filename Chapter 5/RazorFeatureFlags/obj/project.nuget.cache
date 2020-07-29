@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "PkuBO+lY63XKrfw6La1Ype/C4zAQaLOAY89VW6ZDMV7n/rpLY9hUhmzlkNxyxzt++5wSZqsauN7QVjGczso52A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SjoukjeZaal\\RazorFeatureFlags\\RazorFeatureFlags.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SjoukjeZaal\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\SjoukjeZaal\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.1\\microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "C:\\Users\\SjoukjeZaal\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.1\\microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\SjoukjeZaal\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.10\\microsoft.extensions.configuration.binder.2.1.10.nupkg.sha512",
+    "C:\\Users\\SjoukjeZaal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.1\\microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\SjoukjeZaal\\.nuget\\packages\\microsoft.extensions.logging\\2.1.1\\microsoft.extensions.logging.2.1.1.nupkg.sha512",
+    "C:\\Users\\SjoukjeZaal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\SjoukjeZaal\\.nuget\\packages\\microsoft.extensions.options\\2.1.1\\microsoft.extensions.options.2.1.1.nupkg.sha512",
+    "C:\\Users\\SjoukjeZaal\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "C:\\Users\\SjoukjeZaal\\.nuget\\packages\\microsoft.featuremanagement\\2.0.0\\microsoft.featuremanagement.2.0.0.nupkg.sha512",
+    "C:\\Users\\SjoukjeZaal\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\SjoukjeZaal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
