@@ -1,0 +1,33 @@
+﻿ID,Work Item Type,Title,Test Step,Step Action,Step Expected,Revision,Area Path,Assigned To,State
+,Test Case,Confirm that order number appears after successful order,,,,3,Parts.Unlimited,,Design
+,,,1,Open project site,"
+",,,,
+,,,2,Click Brakes,"
+",,,,
+,,,3,Click Disk and Pad Combo,"
+",,,,
+,,,4,Click Add to Cart,"
+",,,,
+,,,5,Click Checkout,"
+",,,,
+,,,6,Click register a new user,"
+",,,,
+,,,7,"Enter @Email, @Password, @Password
+","
+",,,,
+,,,8,Click Register,"
+",,,,
+,,,9,"Click you can click this link to confirm the email: [[link]]
+","
+",,,,
+,,,10,Click Click here to Log in,"
+",,,,
+,,,11,"Enter @Email, @Password","
+",,,,
+,,,12,"Enter @Name, @Phone, @Email, @Address, @City, @State, @PostalCode, @Country, @Promo","
+",,,,
+,,,13,Click Submit Order,"
+",,,,
+,,,14,Confirm order page has order #,Order # should appear on order confirmation page,,,,
+,,,15,Log out,"
+",,,,
