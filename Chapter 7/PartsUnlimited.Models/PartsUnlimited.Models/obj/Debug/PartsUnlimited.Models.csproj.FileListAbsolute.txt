@@ -1,0 +1,42 @@
+C:\Users\SjoukjeZaal\OneDrive - SZ Solutions\Writing\Books\Learn Azure DevOps\Chapter 7 - Using Artifacts with Azure DevOps\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\PartsUnlimited.Models.exe.config
+C:\Users\SjoukjeZaal\OneDrive - SZ Solutions\Writing\Books\Learn Azure DevOps\Chapter 7 - Using Artifacts with Azure DevOps\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\PartsUnlimited.Models.exe
+C:\Users\SjoukjeZaal\OneDrive - SZ Solutions\Writing\Books\Learn Azure DevOps\Chapter 7 - Using Artifacts with Azure DevOps\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\PartsUnlimited.Models.pdb
+C:\Users\SjoukjeZaal\OneDrive - SZ Solutions\Writing\Books\Learn Azure DevOps\Chapter 7 - Using Artifacts with Azure DevOps\PartsUnlimited.Models\PartsUnlimited.Models\obj\Debug\PartsUnlimited.Models.csprojAssemblyReference.cache
+C:\Users\SjoukjeZaal\OneDrive - SZ Solutions\Writing\Books\Learn Azure DevOps\Chapter 7 - Using Artifacts with Azure DevOps\PartsUnlimited.Models\PartsUnlimited.Models\obj\Debug\PartsUnlimited.Models.csproj.CoreCompileInputs.cache
+C:\Users\SjoukjeZaal\OneDrive - SZ Solutions\Writing\Books\Learn Azure DevOps\Chapter 7 - Using Artifacts with Azure DevOps\PartsUnlimited.Models\PartsUnlimited.Models\obj\Debug\PartsUnlimited.Models.exe
+C:\Users\SjoukjeZaal\OneDrive - SZ Solutions\Writing\Books\Learn Azure DevOps\Chapter 7 - Using Artifacts with Azure DevOps\PartsUnlimited.Models\PartsUnlimited.Models\obj\Debug\PartsUnlimited.Models.pdb
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\obj\Debug\PartsUnlimited.Models.csprojAssemblyReference.cache
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\obj\Debug\PartsUnlimited.Models.csproj.CoreCompileInputs.cache
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\obj\Debug\PartsUnlimited.Models.exe
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\obj\Debug\PartsUnlimited.Models.pdb
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\PartsUnlimited.Models.exe.config
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\PartsUnlimited.Models.exe
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\PartsUnlimited.Models.pdb
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\EntityFramework.dll
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\Microsoft.Owin.dll
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\Owin.dll
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\System.Web.Helpers.dll
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\System.Web.Razor.dll
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\EntityFramework.xml
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\Microsoft.Owin.xml
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\System.Web.Helpers.xml
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\System.Web.Razor.xml
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\SjoukjeZaal\Repos\Learn Azure DevOps\Chapter 7\PartsUnlimited.Models\PartsUnlimited.Models\obj\Debug\PartsUnlimited.Models.csproj.CopyComplete
